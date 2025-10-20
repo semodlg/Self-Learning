@@ -1,1 +1,1 @@
-Repository ini adalah dokumentasi self learning Data Analysis dan Data Visualization
+Repository ini adalah dokumentasi tentang hal yang pernah dikerjakan dan dipelajari
